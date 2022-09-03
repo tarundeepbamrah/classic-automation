@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_address.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_application.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_company.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_date.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_email.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_input.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_note.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_onumber.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_person.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_phone.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/custom_sign.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_address.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_address_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_company.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_company_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_date.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_date_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_email_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_onumber.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_onumber_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_phone_focus.xml" value="0.2085" />
+        <entry key="app/src/main/res/layout-800x480/activity_visit_details.xml" value="0.6385711669921875" />
+        <entry key="app/src/main/res/layout-854x480/activity_visit_details.xml" value="0.6482376098632813" />
+        <entry key="app/src/main/res/layout-879x360/activity_visit_details.xml" value="0.952001953125" />
+        <entry key="app/src/main/res/layout-anydpi/activity_visit_details.xml" value="0.245703125" />
+        <entry key="app/src/main/res/layout-hdpi/activity_visit_details.xml" value="0.3812774658203124" />
+        <entry key="app/src/main/res/layout-large/activity_engineer_info.xml" value="0.6625837996199325" />
+        <entry key="app/src/main/res/layout-large/activity_main.xml" value="0.20722198486328125" />
+        <entry key="app/src/main/res/layout-large/activity_signature.xml" value="0.20521590423257802" />
+        <entry key="app/src/main/res/layout-large/activity_visit_details.xml" value="0.19154510498046873" />
+        <entry key="app/src/main/res/layout-large/activity_work_summary.xml" value="0.6679524154630467" />
+        <entry key="app/src/main/res/layout-ldpi/activity_visit_details.xml" value="0.25696563720703125" />
+        <entry key="app/src/main/res/layout-long/activity_visit_details.xml" value="0.375" />
+        <entry key="app/src/main/res/layout-mdpi/activity_visit_details.xml" value="0.19677581787109374" />
+        <entry key="app/src/main/res/layout-nodpi/activity_visit_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-normal/activity_engineer_info.xml" value="0.38491516113281254" />
+        <entry key="app/src/main/res/layout-normal/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-normal/activity_signature.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-normal/activity_visit_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-normal/activity_work_summary.xml" value="0.4147415161132812" />
+        <entry key="app/src/main/res/layout-small/activity_engineer_info.xml" value="0.2600285121372765" />
+        <entry key="app/src/main/res/layout-small/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-small/activity_signature.xml" value="0.25213971819196396" />
+        <entry key="app/src/main/res/layout-small/activity_visit_details.xml" value="0.4949554443359375" />
+        <entry key="app/src/main/res/layout-small/activity_work_summary.xml" value="0.25" />
+        <entry key="app/src/main/res/layout-xhdpi/activity_visit_details.xml" value="0.2269256591796875" />
+        <entry key="app/src/main/res/layout-xlarge/activity_engineer_info.xml" value="0.26787109375" />
+        <entry key="app/src/main/res/layout-xlarge/activity_main.xml" value="0.20634918212890624" />
+        <entry key="app/src/main/res/layout-xlarge/activity_signature.xml" value="0.1875" />
+        <entry key="app/src/main/res/layout-xlarge/activity_visit_details.xml" value="0.23196258544921874" />
+        <entry key="app/src/main/res/layout-xlarge/activity_work_summary.xml" value="0.1875" />
+        <entry key="app/src/main/res/layout-xxhdpi/activity_visit_details.xml" value="0.23187255859375008" />
+        <entry key="app/src/main/res/layout-xxxhdpi/activity_visit_details.xml" value="0.267341682715308" />
+        <entry key="app/src/main/res/layout/activity_engineer_info.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2474700927734375" />
+        <entry key="app/src/main/res/layout/activity_signature.xml" value="0.2384445190429687" />
+        <entry key="app/src/main/res/layout/activity_visit_details.xml" value="0.17160339355468754" />
+        <entry key="app/src/main/res/layout/activity_work_summary.xml" value="0.21913299560546878" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2085" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
